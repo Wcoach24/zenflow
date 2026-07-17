@@ -15,7 +15,7 @@ TypeScript · React · PWA · Tailwind CSS
 ## Run locally
 
 ```bash
-git clone https://github.com/Wcoach24/zenflow.git
+git clone https://github.com/alvaro-zamorano/zenflow.git
 cd zenflow
 npm install
 npm run dev
